@@ -1,5 +1,5 @@
 # HROM
-**Occlusion-Aware High-Resolution Siamese Networks for Visual Object Tracking**
+**Learning High-Resolution Representation and Occlusion-Aware Mask for Visual Object Tracking**
 
 ## Introduction
 
@@ -12,8 +12,8 @@ If you find this code useful, please consider citing:
 
 ```
 @inproceedings{Zhang_2020_HROM,
-  title={Occlusion-Aware High-Resolution Siamese Networks for Visual Object Tracking},
-  author={Dawei Zhang, Zhonglong Zheng and Minglu Li},
+  title={Learning High-Resolution Representation and Occlusion-Aware Mask for Visual Object Tracking},
+  author={Dawei Zhang, Zhonglong Zheng, Tianxiang Wang and Yiran He},
   booktitle={arXiv},
   year={2020}
 }
