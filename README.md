@@ -2,9 +2,9 @@
 
 **🌟Please feel free to let me know if some papers are missed.**
 
-📌**This repository only contains the papers published after 2019. The earlier works can be found at [[link\]](https://github.com/du0915/Video-Object-Segmentation-Paper-List).**
+📌**This repository only contains the papers published after 2019. The earlier works can be found at [[link\]](https://github.com/DavidZhangdw/VOS-Paper-List/blob/master/VOS.md).**
 
-📌**Last modified: 2021/10/05**
+📌**Last modified: 2021/10/07**
 
 ## Semi-supervised VOS
 
