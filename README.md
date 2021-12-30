@@ -8,13 +8,18 @@
 
 ## Semi-supervised VOS
 
+**ArXiv 2021**
+
+- **SITVOS:** Meng Lan, Jing Zhang, Fengxiang He, Lefei Zhang
+  "Siamese Network with Interactive Transformer for Video Object Segmentation" [[arXiv\]](https://arxiv.org/abs/2112.13983)
+
 **ICCV 2021**
 
 - **JOINT:** Yunyao Mao, Ning Wang, Wengang Zhou, Houqiang Li
   "Joint Inductive and Transductive Learning for Video Object Segmentation" [[arXiv\]](https://arxiv.org/abs/2108.03679)
 - **HMMN:** Hongje Seong, Seoung Wug Oh, Joon-Young Lee, Seongwon Lee, Suhyeon Lee, Euntai Kim
   "Hierarchical Memory Matching Network for Video Object Segmentation" [[arXiv\]](https://arxiv.org/abs/2109.11404)
-
+  
 **CVPR 2021**
 
 - **RMNet:** Haozhe Xie, Hongxun Yao, Shangchen Zhou, Shengping Zhang, Wenxiu Sun
